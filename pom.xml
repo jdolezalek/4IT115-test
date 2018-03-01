@@ -4,7 +4,9 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.github.jdolezalek</groupId>
 	<artifactId>test_case</artifactId>
-	<version>0.0.1-SNAPSHOT</version>	<dependencies>
+	<version>0.0.1-SNAPSHOT</version>	
+	<description>příklad do testu</description>
+	<dependencies>
 		<dependency>
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
